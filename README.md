@@ -2,8 +2,9 @@
 
 A feature-rich calculator built with pure HTML, CSS, and JavaScript.
 
-![alt text](image.png)
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/c9b90843-7fa2-4b45-a7e9-db5aa4f67ab6)
+
+![image](https://github.com/user-attachments/assets/fe2b75ed-495c-46cc-9081-a2d6dc1ef22f)
 
 ## Features
 
